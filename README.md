@@ -21,7 +21,7 @@
 Current Project: <a href="https://dash.extronode.com">ExtroNode - Free/Cheap 24/7 Hosting!</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/8N8RA9wwFr">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/G2uu6mB9qD">
   <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="30px" alt="Discord"></a>
 </p> 
 
