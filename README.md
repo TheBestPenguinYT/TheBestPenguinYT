@@ -18,10 +18,10 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://dash.extronode.com">ExtroNode - Free/Cheap 24/7 Hosting!</a>
+Current Project: <a href="https://extronode.com">ExtroNode - Free/Cheap 24/7 Hosting!</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/G2uu6mB9qD">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/TCHnFNPP">
   <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="30px" alt="Discord"></a>
 </p> 
 
