@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://penguin.ga">Penguin</a></b>.
-    <br>I'm a Student from USA and I'm programming as a Hobby.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://thebestpenguin.com">Penguin</a></b>.
+    <br>I'm a person from the USA and I program as a Hobby.<br>
 
 </samp>
 
@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://extronode.com">ExtroNode - Free/Cheap 24/7 Hosting!</a>
+Current Project: <a href="https://fluxhosting.org">FluxHosting - Cheap 24/7 Minecraft Hosting!</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/TCHnFNPP">
