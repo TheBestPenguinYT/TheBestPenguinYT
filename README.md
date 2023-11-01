@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://media.giphy.com/avatars/Care-Kita-App/akADEkX6AvR3.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/92/c8/ee/92c8ee360a537a7189ff52869c924e6e.gif" width="200"/>
 
 </p>
 
