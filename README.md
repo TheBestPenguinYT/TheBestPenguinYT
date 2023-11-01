@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://penguin.ga">Penguin</a></b>.
-    <br>I'm a Student from USA and i'm programming as a Hobby.<br>
+    <br>I'm a Student from USA and I'm programming as a Hobby.<br>
 
 </samp>
 
