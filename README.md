@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://thebestpenguin.com">Penguin</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://thebestpenguin.com">TheBestPenguin</a></b>.
     <br>I'm a person from the USA and I program as a Hobby.<br>
 
 </samp>
