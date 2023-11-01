@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://thebestpenguin.com">TheBestPenguin</a></b>.
-    <br>I'm a person from the USA and I program as a Hobby.<br>
+    <br>Another human being from the USA and I program as a Hobby.<br>
 
 </samp>
 
