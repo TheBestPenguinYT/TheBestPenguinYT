@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://media.tenor.com/6N6LqJ41GesAAAAC/love-hug.gif" width="200"/>
+  <img src="https://media.tenor.com/NpyPpR2rwNoAAAAi/cute-adorable.gif" width="200"/>
 
 </p>
 
