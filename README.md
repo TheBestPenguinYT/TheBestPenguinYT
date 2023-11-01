@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif" background="blue" width="200"/>
+  <img src="https://media.tenor.com/sZH8h0YuZBoAAAAi/penguin-dance.gif" width="200"/>
 
 </p>
 
